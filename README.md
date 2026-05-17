@@ -87,24 +87,6 @@
 
 ---
 
-## 🌟 Featured Innovations
-
-> [!TIP]
-> ### 🧠 AI Attendance System
-> *Full-cycle facial recognition architecture with real-time database logging.*
-> `Python` `OpenCV` `Firebase`
-
-> [!IMPORTANT]
-> ### 🌾 Agritap Rental
-> *A high-performance marketplace for agricultural assets.*
-> `MERN Stack` `Redux` `Cloudinary`
-
-> [!NOTE]
-> ### 💳 Fraud Sentry
-> *ML-driven classification engine to detect fraudulent transactions with 98% precision.*
-> `Scikit-Learn` `Pandas` `Matplotlib`
-
----
 
 ## 🕯 Dev Soul
 <p align="center">
