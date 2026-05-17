@@ -1,4 +1,3 @@
-```md
 <h1 align="center">⚡ Hrishikesh Yadav ⚡</h1>
 
 <h3 align="center">
@@ -147,4 +146,3 @@
 ---
 
 <h3 align="center">⭐ "Code. Build. Learn. Repeat." ⭐</h3>
-```
