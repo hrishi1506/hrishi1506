@@ -67,10 +67,10 @@ Passion  : Building futuristic interfaces
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrishi1506&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi1506&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrishi1506&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrishi1506&theme=tokyonight"/>
+</p>
 
 </div>
 
